@@ -1,2 +1,2 @@
-# Project one
-Personal resume webpage
+# itmd361_project2
+Adding css to project1
